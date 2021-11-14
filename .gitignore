@@ -1,0 +1,10 @@
+.vscode/
+*.mp4
+*.caffemodel
+*.pb
+*.prototxt
+.ipynb_checkpoints
+*.avi
+*.pkl
+*.csv
+*.zip
